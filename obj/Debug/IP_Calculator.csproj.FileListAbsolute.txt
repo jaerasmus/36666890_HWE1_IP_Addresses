@@ -1,0 +1,11 @@
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\bin\Debug\IP_Calculator.exe.config
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\bin\Debug\IP_Calculator.exe
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\bin\Debug\IP_Calculator.pdb
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.csproj.AssemblyReference.cache
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.frmIPCalculator.resources
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.Properties.Resources.resources
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.csproj.GenerateResource.cache
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.exe
+C:\Users\Jan-Albert\OneDrive\Documents\MyApps\IP_Calculator\obj\Debug\IP_Calculator.pdb
